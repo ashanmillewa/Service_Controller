@@ -1,0 +1,70 @@
+2024-10-29 13:29:33.084 +05:30 [INF] ===========================
+2024-10-29 13:29:33.146 +05:30 [INF] Starting Service Manager...
+2024-10-29 13:29:33.151 +05:30 [INF] ===========================
+2024-10-29 13:29:33.293 +05:30 [INF] ===========================================================================
+2024-10-29 13:29:33.296 +05:30 [INF] Scheduled stop time for cbdhsvc_18218668: 12:51 PM
+2024-10-29 13:29:33.297 +05:30 [INF] ---------------------------------------------------------------------------
+2024-10-29 13:29:33.297 +05:30 [INF] Scheduled start time for cbdhsvc_18218668: 12:52 PM
+2024-10-29 13:29:33.299 +05:30 [INF] ===========================================================================
+2024-10-29 13:29:33.300 +05:30 [INF] ===========================================================================
+2024-10-29 13:29:33.301 +05:30 [INF] Stopping service: Clipboard User Service_18218668...
+2024-10-29 13:29:33.302 +05:30 [INF] ---------------------------------------------------------------------------
+2024-10-29 13:29:33.331 +05:30 [INF] ***************************************************************************
+2024-10-29 13:29:33.334 +05:30 [ERR] An error occurred while managing service 'cbdhsvc_18218668': Cannot open 'cbdhsvc_18218668' service on computer '.'.
+System.InvalidOperationException: Cannot open 'cbdhsvc_18218668' service on computer '.'.
+ ---> System.ComponentModel.Win32Exception (5): Access is denied.
+   --- End of inner exception stack trace ---
+   at System.ServiceProcess.ServiceController.GetServiceHandle(Int32 desiredAccess)
+   at System.ServiceProcess.ServiceController.Stop(Boolean stopDependentServices)
+   at System.ServiceProcess.ServiceController.Stop()
+   at WindowsServicesViewer.Program.ManageService(ServiceConfig serviceConfig) in C:\Service_Controller\ServiceController\ServiceController\Program.cs:line 135
+2024-10-29 13:29:33.381 +05:30 [INF] ***************************************************************************
+2024-10-29 13:29:33.383 +05:30 [INF] ===========================================================================
+2024-10-29 13:29:33.384 +05:30 [INF] Scheduled stop time for CloudBackupRestoreSvc_18218668: 12:53 PM
+2024-10-29 13:29:33.385 +05:30 [INF] ---------------------------------------------------------------------------
+2024-10-29 13:29:33.385 +05:30 [INF] Scheduled start time for CloudBackupRestoreSvc_18218668: 12:54 PM
+2024-10-29 13:29:33.386 +05:30 [INF] ===========================================================================
+2024-10-29 13:29:33.386 +05:30 [INF] ===========================================================================
+2024-10-29 13:29:33.387 +05:30 [INF] Stopping service: Cloud Backup and Restore Service_18218668...
+2024-10-29 13:29:33.388 +05:30 [INF] ---------------------------------------------------------------------------
+2024-10-29 13:29:33.403 +05:30 [INF] ***************************************************************************
+2024-10-29 13:29:33.413 +05:30 [ERR] An error occurred while managing service 'CloudBackupRestoreSvc_18218668': Cannot open 'CloudBackupRestoreSvc_18218668' service on computer '.'.
+System.InvalidOperationException: Cannot open 'CloudBackupRestoreSvc_18218668' service on computer '.'.
+ ---> System.ComponentModel.Win32Exception (5): Access is denied.
+   --- End of inner exception stack trace ---
+   at System.ServiceProcess.ServiceController.GetServiceHandle(Int32 desiredAccess)
+   at System.ServiceProcess.ServiceController.Stop(Boolean stopDependentServices)
+   at System.ServiceProcess.ServiceController.Stop()
+   at WindowsServicesViewer.Program.ManageService(ServiceConfig serviceConfig) in C:\Service_Controller\ServiceController\ServiceController\Program.cs:line 135
+2024-10-29 13:29:33.419 +05:30 [INF] ***************************************************************************
+2024-10-29 13:29:33.426 +05:30 [INF] ===========================================================================
+2024-10-29 13:29:33.447 +05:30 [INF] Scheduled stop time for KeyIso: 12:55 PM
+2024-10-29 13:29:33.448 +05:30 [INF] ---------------------------------------------------------------------------
+2024-10-29 13:29:33.513 +05:30 [INF] Scheduled start time for KeyIso: 12:56 PM
+2024-10-29 13:29:33.516 +05:30 [INF] ===========================================================================
+2024-10-29 13:29:33.516 +05:30 [INF] ===========================================================================
+2024-10-29 13:29:33.517 +05:30 [INF] Stopping service: CNG Key Isolation...
+2024-10-29 13:29:33.518 +05:30 [INF] ---------------------------------------------------------------------------
+2024-10-29 13:29:33.541 +05:30 [INF] ***************************************************************************
+2024-10-29 13:29:33.545 +05:30 [ERR] An error occurred while managing service 'KeyIso': Cannot open 'KeyIso' service on computer '.'.
+System.InvalidOperationException: Cannot open 'KeyIso' service on computer '.'.
+ ---> System.ComponentModel.Win32Exception (5): Access is denied.
+   --- End of inner exception stack trace ---
+   at System.ServiceProcess.ServiceController.GetServiceHandle(Int32 desiredAccess)
+   at System.ServiceProcess.ServiceController.Stop(Boolean stopDependentServices)
+   at System.ServiceProcess.ServiceController.Stop()
+   at WindowsServicesViewer.Program.ManageService(ServiceConfig serviceConfig) in C:\Service_Controller\ServiceController\ServiceController\Program.cs:line 135
+2024-10-29 13:29:33.549 +05:30 [INF] ***************************************************************************
+2024-10-29 13:29:33.554 +05:30 [INF] ===========================================================================
+2024-10-29 13:29:33.555 +05:30 [INF] Stopping service: Windows Push Notifications User Service_18218668...
+2024-10-29 13:29:33.556 +05:30 [INF] ---------------------------------------------------------------------------
+2024-10-29 13:29:33.856 +05:30 [INF] Service 'Windows Push Notifications User Service_18218668' has been stopped successfully.
+2024-10-29 13:29:33.861 +05:30 [INF] ===========================================================================
+2024-10-29 13:29:33.863 +05:30 [INF] ===========================================================================
+2024-10-29 13:29:33.863 +05:30 [INF] Starting service: Windows Push Notifications User Service_18218668...
+2024-10-29 13:29:33.864 +05:30 [INF] ---------------------------------------------------------------------------
+2024-10-29 13:29:34.470 +05:30 [INF] Service 'Windows Push Notifications User Service_18218668' has been restarted successfully.
+2024-10-29 13:29:34.569 +05:30 [INF] ===========================================================================
+2024-10-29 13:29:34.570 +05:30 [INF] ==========================================
+2024-10-29 13:29:34.580 +05:30 [INF] All scheduled services have been managed.
+2024-10-29 13:29:34.581 +05:30 [INF] ==========================================
