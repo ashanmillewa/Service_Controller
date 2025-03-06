@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ABChKoQ7Dek=",
+  "dgSpecHash": "YCardBnamY4=",
   "success": true,
-  "projectFilePath": "C:\\Service_Controller\\ServiceController\\ServiceController\\ServiceController.csproj",
+  "projectFilePath": "D:\\Quantrax_Projects\\Service_controller\\ServiceController\\ServiceController\\ServiceController.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ashan\\.nuget\\packages\\aiwins.rocket.aspnetcore\\8.0.5\\aiwins.rocket.aspnetcore.8.0.5.nupkg.sha512",
     "C:\\Users\\ashan\\.nuget\\packages\\aiwins.rocket.aspnetcore.serilog\\8.0.5\\aiwins.rocket.aspnetcore.serilog.8.0.5.nupkg.sha512",

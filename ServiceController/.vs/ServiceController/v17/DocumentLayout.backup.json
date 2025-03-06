@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Service_Controller\\ServiceController\\",
+  "WorkspaceRootPath": "D:\\Quantrax_Projects\\Service_controller\\ServiceController\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F679424B-81F6-432B-94C8-82DDB64B6629}|ServiceController\\ServiceController.csproj|c:\\service_controller\\servicecontroller\\servicecontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F679424B-81F6-432B-94C8-82DDB64B6629}|ServiceController\\ServiceController.csproj|d:\\quantrax_projects\\service_controller\\servicecontroller\\servicecontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F679424B-81F6-432B-94C8-82DDB64B6629}|ServiceController\\ServiceController.csproj|solutionrelative:servicecontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F679424B-81F6-432B-94C8-82DDB64B6629}|ServiceController\\ServiceController.csproj|c:\\service_controller\\servicecontroller\\servicecontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F679424B-81F6-432B-94C8-82DDB64B6629}|ServiceController\\ServiceController.csproj|d:\\quantrax_projects\\service_controller\\servicecontroller\\servicecontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F679424B-81F6-432B-94C8-82DDB64B6629}|ServiceController\\ServiceController.csproj|solutionrelative:servicecontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Service_Controller\\ServiceController\\ServiceController\\appsettings.json",
+              "DocumentMoniker": "D:\\Quantrax_Projects\\Service_controller\\ServiceController\\ServiceController\\appsettings.json",
               "RelativeDocumentMoniker": "ServiceController\\appsettings.json",
-              "ToolTip": "C:\\Service_Controller\\ServiceController\\ServiceController\\appsettings.json",
+              "ToolTip": "D:\\Quantrax_Projects\\Service_controller\\ServiceController\\ServiceController\\appsettings.json",
               "RelativeToolTip": "ServiceController\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-28T10:43:24.93Z"
             },
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Service_Controller\\ServiceController\\ServiceController\\Program.cs",
+              "DocumentMoniker": "D:\\Quantrax_Projects\\Service_controller\\ServiceController\\ServiceController\\Program.cs",
               "RelativeDocumentMoniker": "ServiceController\\Program.cs",
-              "ToolTip": "C:\\Service_Controller\\ServiceController\\ServiceController\\Program.cs",
+              "ToolTip": "D:\\Quantrax_Projects\\Service_controller\\ServiceController\\ServiceController\\Program.cs",
               "RelativeToolTip": "ServiceController\\Program.cs",
-              "ViewState": "AgIAAOwAAAAAAAAAAAAwwEgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAiwA4BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T10:42:47.996Z",
               "EditorCaption": ""

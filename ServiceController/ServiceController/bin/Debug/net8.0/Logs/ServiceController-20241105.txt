@@ -1,0 +1,9 @@
+2024-11-05 10:48:17.184 +05:30 [INF] ===========================
+2024-11-05 10:48:17.283 +05:30 [INF] Starting Service Manager...
+2024-11-05 10:48:17.284 +05:30 [INF] ===========================
+2024-11-05 10:48:17.527 +05:30 [WRN] Service 'testabcd' is not available.
+2024-11-05 10:48:17.531 +05:30 [WRN] Service 'CloudBackupRestoreSvc_18218668' is not available.
+2024-11-05 10:48:17.537 +05:30 [INF] Service 'KeyIso' is available.
+2024-11-05 10:48:17.561 +05:30 [INF] Scheduled stop time for KeyIso: 12:55 PM
+2024-11-05 10:48:17.563 +05:30 [INF] Scheduled start time for KeyIso: 12:56 PM
+2024-11-05 10:48:17.564 +05:30 [INF] Waiting to stop service 'KeyIso' at 12:55 PM...
